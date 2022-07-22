@@ -1,8 +1,8 @@
+https://riven-yrw.github.io/2022/07/21/hello-world/
 https://riven-yrw.github.io/live2d-widget-master/demo/login.html
 https://riven-yrw.github.io/live2d-widget-master/demo/demo.html
 https://riven-yrw.github.io/live2d-widget-master/waifu-tips.json
 https://riven-yrw.github.io/live2d-widget-master/README.html
-https://riven-yrw.github.io/2022/07/21/hello-world/
 https://riven-yrw.github.io/categories/index.html
 https://riven-yrw.github.io/tags/index.html
 https://riven-yrw.github.io/2022/07/21/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/
@@ -10,4 +10,4 @@ https://riven-yrw.github.io/
 https://riven-yrw.github.io/tags/hello/
 https://riven-yrw.github.io/tags/word/
 https://riven-yrw.github.io/categories/%E6%B0%B4%E6%9E%9C/
-https://riven-yrw.github.io/categories/%E6%B0%B4%E6%9E%9C/%E8%8B%B9%E6%9E%9C/
+https://riven-yrw.github.io/categories/%E6%B0%B4%E6%9E%9C/%E9%A6%99%E8%95%89/
