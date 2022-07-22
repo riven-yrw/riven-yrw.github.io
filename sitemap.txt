@@ -1,3 +1,7 @@
+http://example.com/live2d-widget-master/demo/login.html
+http://example.com/live2d-widget-master/demo/demo.html
+http://example.com/live2d-widget-master/waifu-tips.json
+http://example.com/live2d-widget-master/README.html
 http://example.com/2022/07/21/hello-world/
 http://example.com/categories/index.html
 http://example.com/tags/index.html
