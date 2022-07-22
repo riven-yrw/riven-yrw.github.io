@@ -3,11 +3,11 @@
   <title>RIVEN的博客</title>
   
   <subtitle>大家好,我是RIVEN</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://riven-yrw.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://riven-yrw.github.io/"/>
   <updated>2022-07-21T09:26:15.212Z</updated>
-  <id>http://example.com/</id>
+  <id>https://riven-yrw.github.io/</id>
   
   <author>
     <name>RIVEN</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>我的第一篇博客</title>
-    <link href="http://example.com/2022/07/21/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://example.com/2022/07/21/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://riven-yrw.github.io/2022/07/21/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://riven-yrw.github.io/2022/07/21/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
     <published>2022-07-21T09:22:54.000Z</published>
     <updated>2022-07-21T09:26:15.212Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/07/21/hello-world/"/>
-    <id>http://example.com/2022/07/21/hello-world/</id>
+    <link href="https://riven-yrw.github.io/2022/07/21/hello-world/"/>
+    <id>https://riven-yrw.github.io/2022/07/21/hello-world/</id>
     <published>2022-07-21T03:30:12.919Z</published>
     <updated>2022-07-22T01:50:56.813Z</updated>
     
@@ -54,14 +54,14 @@
     
     
     
-    <category term="水果" scheme="http://example.com/categories/%E6%B0%B4%E6%9E%9C/"/>
+    <category term="水果" scheme="https://riven-yrw.github.io/categories/%E6%B0%B4%E6%9E%9C/"/>
     
-    <category term="苹果" scheme="http://example.com/categories/%E6%B0%B4%E6%9E%9C/%E8%8B%B9%E6%9E%9C/"/>
+    <category term="苹果" scheme="https://riven-yrw.github.io/categories/%E6%B0%B4%E6%9E%9C/%E8%8B%B9%E6%9E%9C/"/>
     
     
-    <category term="hello" scheme="http://example.com/tags/hello/"/>
+    <category term="hello" scheme="https://riven-yrw.github.io/tags/hello/"/>
     
-    <category term="word" scheme="http://example.com/tags/word/"/>
+    <category term="word" scheme="https://riven-yrw.github.io/tags/word/"/>
     
   </entry>
   
