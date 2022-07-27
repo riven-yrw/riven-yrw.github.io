@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://riven-yrw.github.io/2022/07/23/Linux%E5%AD%A6%E4%B9%A0/</loc>
+    
+    <lastmod>2022-07-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://riven-yrw.github.io/2022/07/21/hello-world/</loc>
     
-    <lastmod>2022-07-22</lastmod>
+    <lastmod>2022-07-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://riven-yrw.github.io/2022/07/23/Redis%E5%AD%A6%E4%B9%A0/</loc>
+    
+    <lastmod>2022-07-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12,33 +30,6 @@
   
   <url>
     <loc>https://riven-yrw.github.io/2022/07/21/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
-    
-    <lastmod>2022-07-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://riven-yrw.github.io/2022/07/21/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%20copy%203/</loc>
-    
-    <lastmod>2022-07-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://riven-yrw.github.io/2022/07/21/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%20copy/</loc>
-    
-    <lastmod>2022-07-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://riven-yrw.github.io/2022/07/21/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%20copy%202/</loc>
     
     <lastmod>2022-07-22</lastmod>
     
@@ -67,7 +58,7 @@
 
   <url>
     <loc>https://riven-yrw.github.io/</loc>
-    <lastmod>2022-07-22</lastmod>
+    <lastmod>2022-07-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,14 +66,28 @@
   
   <url>
     <loc>https://riven-yrw.github.io/tags/hello/</loc>
-    <lastmod>2022-07-22</lastmod>
+    <lastmod>2022-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://riven-yrw.github.io/tags/word/</loc>
-    <lastmod>2022-07-22</lastmod>
+    <lastmod>2022-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://riven-yrw.github.io/tags/Redis/</loc>
+    <lastmod>2022-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://riven-yrw.github.io/tags/Linux/</loc>
+    <lastmod>2022-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -91,14 +96,14 @@
   
   <url>
     <loc>https://riven-yrw.github.io/categories/%E6%B0%B4%E6%9E%9C/</loc>
-    <lastmod>2022-07-22</lastmod>
+    <lastmod>2022-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://riven-yrw.github.io/categories/%E6%B0%B4%E6%9E%9C/%E9%A6%99%E8%95%89/</loc>
-    <lastmod>2022-07-22</lastmod>
+    <lastmod>2022-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
